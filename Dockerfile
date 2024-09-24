@@ -1,3 +1,3 @@
 FROM alpine:latest
 
-RUN ECHO "Hello, Captain!"
+CMD ["echo", "Hello, Captain!"]
